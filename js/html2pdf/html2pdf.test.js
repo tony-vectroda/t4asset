@@ -1,0 +1,1 @@
+var t4Sdks = this || {}; //21 ver 2
